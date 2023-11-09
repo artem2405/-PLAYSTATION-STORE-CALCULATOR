@@ -1,0 +1,10 @@
+C:\Users\artem\Desktop\PROGS\PS_CALCULATOR\PS_CALCULATOR\bin\Debug\PS_CALCULATOR.exe.config
+C:\Users\artem\Desktop\PROGS\PS_CALCULATOR\PS_CALCULATOR\bin\Debug\PS_CALCULATOR.exe
+C:\Users\artem\Desktop\PROGS\PS_CALCULATOR\PS_CALCULATOR\bin\Debug\PS_CALCULATOR.pdb
+C:\Users\artem\Desktop\PROGS\PS_CALCULATOR\PS_CALCULATOR\obj\Debug\PS_CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\PROGS\PS_CALCULATOR\PS_CALCULATOR\obj\Debug\PS_CALCULATOR.MainForm.resources
+C:\Users\artem\Desktop\PROGS\PS_CALCULATOR\PS_CALCULATOR\obj\Debug\PS_CALCULATOR.Properties.Resources.resources
+C:\Users\artem\Desktop\PROGS\PS_CALCULATOR\PS_CALCULATOR\obj\Debug\PS_CALCULATOR.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\PROGS\PS_CALCULATOR\PS_CALCULATOR\obj\Debug\PS_CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\PROGS\PS_CALCULATOR\PS_CALCULATOR\obj\Debug\PS_CALCULATOR.exe
+C:\Users\artem\Desktop\PROGS\PS_CALCULATOR\PS_CALCULATOR\obj\Debug\PS_CALCULATOR.pdb
