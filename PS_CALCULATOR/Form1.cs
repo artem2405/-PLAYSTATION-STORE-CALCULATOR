@@ -26,11 +26,11 @@ namespace PS_CALCULATOR
                 && lira_price.Text[lira_price.Text.Length - 1] <= 57)
                 {
                     double price = Math.Ceiling(double.Parse(lira_price.Text));
-                    if (price < 100) { RublePrice = price * 5.2; }
-                    if (price >= 100 && price <= 698) { RublePrice = Math.Ceiling(price * 1.07) * 4.75; }
-                    if (price >= 699 && price <= 1198) { RublePrice = Math.Ceiling(price * 1.07) * 4.5; }
-                    if (price >= 1199 && price <= 1798) { RublePrice = Math.Ceiling(price * 1.07) * 4.3; }
-                    if (price >= 1799) { RublePrice = Math.Ceiling(price * 1.07) * 4.1; }
+                    if (price < 100) { RublePrice = price * 5; }
+                    if (price >= 100 && price <= 698) { RublePrice = Math.Ceiling(price * 1.07) * 4.6; }
+                    if (price >= 699 && price <= 1198) { RublePrice = Math.Ceiling(price * 1.07) * 4.3; }
+                    if (price >= 1199 && price <= 1798) { RublePrice = Math.Ceiling(price * 1.07) * 4.1; }
+                    if (price >= 1799) { RublePrice = Math.Ceiling(price * 1.07) * 4; }
                     RublePrice = Round10(RublePrice);
                     ruble_price.Text = RublePrice.ToString();
                 }
@@ -51,6 +51,11 @@ namespace PS_CALCULATOR
         private void ruble_price_TextChanged(object sender, EventArgs e)
         {
             
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

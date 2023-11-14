@@ -84,6 +84,7 @@
             this.label3.Size = new System.Drawing.Size(374, 375);
             this.label3.TabIndex = 4;
             this.label3.Text = resources.GetString("label3.Text");
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // MainForm
             // 

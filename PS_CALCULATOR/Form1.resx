@@ -127,11 +127,11 @@
 - После умножения на коэффициент 
 цена увеличивается до целых десяток
 
-1) &lt;100 лир - *5.2
-2) 100 - 698 - +7% и *4.75
-3) 699 - 1198 - +7% и *4.5
-4) 1199 - 1798 - +7% и *4.3
-5) От 1799 - +7% и *4.1
+1) &lt;100 лир - *5
+2) 100 - 698 - +7% и *4.6
+3) 699 - 1198 - +7% и *4.3
+4) 1199 - 1798 - +7% и *4.1
+5) От 1799 - +7% и *4
  
 </value>
   </data>
@@ -139,7 +139,7 @@
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAUgAAADuCAYAAABbJp50AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
-        cgAAEnIBXmVb4wAA/7JJREFUeF40vWWcVkfW9d20uyKNu2uwBAIhJARIAnEhECLEXXFoGocQmZnnee57
+        cQAAEnEB89x6jgAA/7JJREFUeF40vWWcVkfW9d20uyKNu2uwBAIhJARIAnEhECLEXXFoGocQmZnnee57
         ZjLxQHB3d+mm3e1qd+/GJev975N5P1y/hq5TVbt27b32WufUddpt+sUKhf2UpKCfkjVyj0sfpNZoPp+5
         8dX6IrlaEw8VKuDfKQr5MUkP8O9P0yo1O75Cc+LL9CE/h2zJlP+/k9TqX5c19USRPk2qpK1CsxPK9MLZ
         QrX7NUE+/0lQV35OP1esLxIq9DltH/CZsD9PAf+MV+C/EzR4c4beYszZiRX6MqFc78eU617GDmLuwH8l
